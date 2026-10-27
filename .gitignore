@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.qodo/
+
+# Runtime data: uploaded and downloaded files
+server/shared_files/*
+!server/shared_files/.gitkeep
+client/downloads/*
+!client/downloads/.gitkeep
